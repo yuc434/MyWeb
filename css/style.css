@@ -30,7 +30,7 @@ p {
 /* Links */
 
 a {
-  color: #1abc9c;
+  color: #debb99;
   word-wrap: break-word;
   -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
   -moz-transition: color 0.1s ease-in, background 0.1s ease-in;
@@ -180,7 +180,7 @@ SECTION WRAPS
 /* Intnro Wrap */
 
 #intro {
-  background: #2c3e50;
+  background: #80471C;
   padding-top: 60px;
   padding-bottom: 60px;
   color: white;
@@ -198,7 +198,7 @@ SECTION WRAPS
 }
 
 #skillswrap {
-  background: #2c3e50;
+  background: #80471C;
   padding-top: 60px;
   padding-bottom: 60px;
   color: white;
@@ -228,7 +228,7 @@ SECTION WRAPS
 
 #footwrap i {
   padding-right: 8px;
-  color: #1abc9c;
+  color: #debb99;
 }
 
 /* Copyright Wrap */
