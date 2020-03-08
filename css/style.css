@@ -81,7 +81,7 @@ hr {
 }
 
 #topbar-inner {
-  background: #111;
+  background: #422f04;
   line-height: 0;
   text-align: center;
 }
@@ -118,24 +118,24 @@ By default, top navigation bar uses "fixed" position
 }
 
 #section-topbar ul#nav a:focus {
-  background: #111;
+  background: #422f04;
   text-decoration: none;
-  border-left: 1px solid #111;
+  border-left: 1px solid #422f04;
 }
 
 #section-topbar ul#nav a:hover {
   background: #222;
   text-decoration: none;
-  border-left: 1px solid #111;
+  border-left: 1px solid #422f04;
 }
 
 #section-topbar ul#nav .active a {
-  background: #44bbaa;
-  border-left: 1px solid #111;
+  background: #f5da62;
+  border-left: 1px solid #422f04;
 }
 
 #section-topbar ul#nav .active a:hover {
-  background: #44bbaa;
+  background: #f5da62;
 }
 
 #section-topbar i {
@@ -180,7 +180,7 @@ SECTION WRAPS
 /* Intnro Wrap */
 
 #intro {
-  background: #80471C;
+  background: #b58865;
   padding-top: 60px;
   padding-bottom: 60px;
   color: white;
@@ -198,7 +198,7 @@ SECTION WRAPS
 }
 
 #skillswrap {
-  background: #80471C;
+  background: #b58865;
   padding-top: 60px;
   padding-bottom: 60px;
   color: white;
@@ -260,14 +260,14 @@ SECTION WRAPS
 }
 
 .desc t {
-  color: #34495e;
+  color: #916e4e;
   font-weight: 700;
 }
 
 .desc imp {
   padding: 6px;
   color: white;
-  background: #34495e;
+  background: #916e4e;
 }
 
 .desc more {
@@ -297,7 +297,7 @@ sm {
 }
 
 .contact-form .form-send button {
-  background: #44bbaa;
+  background: #f5da62;
   border: 0;
   padding: 10px 30px;
   color: #fff;
